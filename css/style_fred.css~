@@ -1,0 +1,16 @@
+nav li{
+	padding: 0 20px !important;
+
+}
+
+.navbar-header img, .navbar-brand{
+	margin: 0;
+	padding: 0;
+	height: 40px;
+}
+
+ .linked_in img{
+	padding: 0;
+	height: 30px;
+}
+
